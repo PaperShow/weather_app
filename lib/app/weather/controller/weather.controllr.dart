@@ -3,7 +3,7 @@ import 'package:weather_app/app/weather/model/weather.model.dart';
 
 class WeatherController {
   final baseUrl = "https://api.openweathermap.org/data/2.5/weather";
-  final apiKey = "2f814e8f940901b5f6ddae0a45f5673e";
+  final apiKey = "******************************";
 
   final dio = Dio();
 
